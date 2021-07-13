@@ -1,4 +1,4 @@
-# Practical guide for a happy lif in Prague
+# Practical guide for a happy life in Prague
 The one-stop guide for incoming researchers to make your life in Prague easier
 
 The mission of prg.ai is to transform Prague into an artificial intelligence hub of global significance. A thriving community of international researchers and academics who bring the essential dose of diversity of thought, experience, backgrounds and networks is an indispensable ingredient in achieving our ambitious goal.
