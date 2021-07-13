@@ -10,6 +10,8 @@ Yet, it’s not only a popular tourist destination. Prague has become home to an
 
 The Czech Republic has consistently ranked among the <a href="https://kafkadesk.org/2020/08/03/czech-republic-among-best-countries-in-the-world-to-raise-a-family-says-new-ranking/">top ten safest places on Earth</a> and the <a href="https://www.asherfergusson.com/raising-a-family-index/">top ten places to raise a family</a> according to safety, happiness, cost, health, education, and time indices. Prague offers all that, along with a vast cultural scene, dynamic nightlife, and <a href="https://news.expats.cz/weekly-czech-news/prague-is-the-worlds-greenest-urban-space-says-new-index/">expansive greenery</a>. And those are only a few of the reasons why you might be excited to experience life in the Czech metropolis.
 
+![thewonderalice-e6fhEghzFJU-unsplash](https://user-images.githubusercontent.com/87364008/125491939-1b0cc492-da64-4782-96ec-81d3c234cda8.jpg)
+
 <h4>Some useful links to start off with:</h4>
 
 - <a href="https://www.praha.eu/jnp/en/index.html">The City of Prague</a> official website
