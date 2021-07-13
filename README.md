@@ -1,5 +1,9 @@
 # Practical guide for a happy life in Prague
 
+![prg ai guide cover](https://user-images.githubusercontent.com/87364008/125447421-0dd75066-f509-40a8-8421-7af687c6714d.jpg)
+
+<h2>Foreword</h2>
+
 The mission of prg.ai is to transform Prague into an artificial intelligence hub of global significance. A thriving community of international researchers and academics who bring the essential dose of diversity of thought, experience, backgrounds and networks is an indispensable ingredient in achieving our ambitious goal.
 
 From our personal experience we know how costly moving to a foreign country can be in terms of time, energy, and money. It was the findings of the prg.ai survey carried out in autumn 2019 among 40 international staff members of our academic founders that clearly indicated a real need for a handbook, which would provide relevant information to make the relatively demanding process of city discovery and settling down as smooth and painless as possible.
