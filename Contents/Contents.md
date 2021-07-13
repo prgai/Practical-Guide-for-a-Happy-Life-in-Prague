@@ -1,6 +1,6 @@
 <h2>Contents</h2>
 
-<h3>🤗 Welcome to Prague!</h3>
+<h3>🤗 <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Chapters/Welcome%20to%20Prague.md">Welcome to Prague!</a></h3>
 <h3>💸 Cost of living</h3>
 <h3>👍🏻 Life in Prague</h3>
 <h3>🛫 What to do before your arrival</h3>
