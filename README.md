@@ -21,6 +21,8 @@ The resulting piece is this Practical Guide for a Happy Life in Prague. It striv
 
 We prepared the guide with the international researcher in mind, but needless to say, we sincerely hope it will become a solid source of information and advice to anyone who is considering moving to our beautiful capital or is already here and still feels a tad lost at times. Our plan is to transform the document into a wiki on our upcoming website so it’s widely accessible and anyone can help us in our effort to keep it relevant and up to date. It’s in comment mode, so feel free to suggest your advice and tips!
 
+<h3>➡️ Continue to Contents</h3>
+
 <h2>Contents</h2>
 
 * Welcome to Prague!	5
