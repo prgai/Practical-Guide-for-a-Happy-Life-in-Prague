@@ -1,6 +1,6 @@
 ⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
 
-<h3>🤗 Welcome to Prague</h4>
+<h3>🤗 Welcome to Prague</h3>
 
 <a href="https://en.wikipedia.org/wiki/Prague">Prague</a> is the capital and the largest city in the Czech Republic. Its rich history attracts visitors from all over the world, and UNESCO lists the historic city centre as a <a href="https://whc.unesco.org/en/list/616/">World Heritage Site</a>. 
 
