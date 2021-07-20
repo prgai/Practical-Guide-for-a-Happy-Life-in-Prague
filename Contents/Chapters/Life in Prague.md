@@ -67,7 +67,7 @@ Smíchov is a mix of residential and office buildings, restaurants and small sho
 
 Vršovice and Nusle are still relatively close to the city center with reasonable rent prices. In both districts you can enjoy a walk in the park, dine in decent restaurants and go for a drink to respectable (or not) establishments.
 
-Further from the city center, yet well accessible by public transportation, are other nice districts with moderate costs such as Košíře, Michle, Podolí, Krč or Strašnice. 
+Further from the city center, yet well accessible by public transportation, are other nice districts with moderate costs such as **Košíře, Michle, Podolí, Krč** or **Strašnice**. 
 
 #### A good compromise
 
