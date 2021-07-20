@@ -1,4 +1,4 @@
-⬅️ [Back to Contents](Contents/Contents.md)
+⬅️ [Back to Contents](https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md)
 
 ### 💸 Cost of living
 
