@@ -61,16 +61,16 @@ Generally, the closer you get to the city center, the higher the rent. But that 
 
 #### The golden mean
 
-Žižkov, the cheaper and grittier neighbour of Vinohrady, is very popular among young people and students; not only because it is a fun place for a night out, but also because of the Parukářka and Vítkov parks, a relatively central location and reasonable costs of living. 
+[Žižkov](https://goout.net/en/magazine/the-irrevocable-genius-loci-of-zizkovs-main-street/yph/), the cheaper and grittier neighbour of Vinohrady, is very popular among young people and students; not only because it is a fun place for a night out, but also because of the [Parukářka](https://www.parukarka.cz/park-parukarka-praha3.php) and [Vítkov](https://en.wikipedia.org/wiki/National_Monument_at_V%C3%ADtkov) parks, a relatively central location and reasonable costs of living. 
 
-Smíchov is a mix of residential and office buildings, restaurants and small shops as well as one of Prague’s major shopping centers. Rent prices are relatively moderate and you can easily get to the city center by metro and tram. There are also a few nice parks and the river bank is perfect for walks.
+[Smíchov](https://goout.net/en/magazine/the-ingenious-anarchy-of-nightlife-in-smichov/slh/) is a mix of residential and office buildings, restaurants and small shops as well as [one of Prague’s major shopping centers](https://novy-smichov.klepierre.cz/#). Rent prices are relatively moderate and you can easily get to the city center by metro and tram. There are also a few nice parks and the [river bank](https://www.prague.eu/en/object/places/2071/smichovska-naplavka-embankment-horejsi-nabrezi) is perfect for walks.
 
-Vršovice and Nusle are still relatively close to the city center with reasonable rent prices. In both districts you can enjoy a walk in the park, dine in decent restaurants and go for a drink to respectable (or not) establishments.
+[Vršovice](https://goout.net/en/magazine/the-unkempt-beauty-of-working-mans-vrsovice/olh/) and [Nusle](https://goout.net/en/magazine/the-impeccable-reality-show-of-nusle/etf/) are still relatively close to the city center with reasonable rent prices. In both districts you can enjoy a walk in the park, dine in decent restaurants and go for a drink to respectable (or not) establishments.
 
 Further from the city center, yet well accessible by public transportation, are other nice districts with moderate costs such as **Košíře, Michle, Podolí, Krč** or **Strašnice**. 
 
 #### A good compromise
 
-Some of the most affordable options are found in districts on the outskirts of Prague (most of which are accessible by metro) such as Řepy, Prosek, Letňany, Zličín or Chodov. These areas are known for housing estates called “paneláky” (panel buildings), built during the communist era to tackle massive housing shortages and to promote collectivism. The largest panel housing estate is Jižní Město (called “Jižák”) housing approximately 90,000 people. 
+Some of the most affordable options are found in districts on the outskirts of Prague (most of which are accessible by metro) such as **Řepy, Prosek, Letňany, Zličín** or **Chodov**. These areas are known for housing estates called “[paneláky](https://en.wikipedia.org/wiki/Panel%C3%A1k)” (panel buildings), built during the communist era to tackle massive housing shortages and to promote collectivism. The largest panel housing estate is [Jižní Město](https://en.wikipedia.org/wiki/Ji%C5%BEn%C3%AD_M%C4%9Bsto) (called “Jižák”) housing approximately 90,000 people. 
 
 Life in Prague’s housing estates can actually be very comfortable, with greenery and all necessary amenities (shops, schools, public services, doctors’ offices, public transportation hubs) in the near vicinity. Once depressingly grey, many paneláky have acquired flamboyant exteriors and many dwellings have been transformed into fine examples of modern living. If you don’t mind longer commutes to the city centre, it’s worth exploring offers in these neighbourhoods.
