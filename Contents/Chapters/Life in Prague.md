@@ -74,3 +74,30 @@ Further from the city center, yet well accessible by public transportation, are 
 Some of the most affordable options are found in districts on the outskirts of Prague (most of which are accessible by metro) such as **Řepy, Prosek, Letňany, Zličín** or **Chodov**. These areas are known for housing estates called “[paneláky](https://en.wikipedia.org/wiki/Panel%C3%A1k)” (panel buildings), built during the communist era to tackle massive housing shortages and to promote collectivism. The largest panel housing estate is [Jižní Město](https://en.wikipedia.org/wiki/Ji%C5%BEn%C3%AD_M%C4%9Bsto) (called “Jižák”) housing approximately 90,000 people. 
 
 Life in Prague’s housing estates can actually be very comfortable, with greenery and all necessary amenities (shops, schools, public services, doctors’ offices, public transportation hubs) in the near vicinity. Once depressingly grey, many paneláky have acquired flamboyant exteriors and many dwellings have been transformed into fine examples of modern living. If you don’t mind longer commutes to the city centre, it’s worth exploring offers in these neighbourhoods.
+
+
+### What to do upon your arrival
+
+#### Foreign Police
+
+It’s necessary to register with the foreign police within a set period of time depending on whether you are a non-EU or EU citizen. If you are **a citizen of the EU, Iceland, Norway, Liechtenstein or Switzerland you are required to report your presence** to the [Foreign Police Department](https://www.policie.cz/clanek/odbor-cizinecke-policie-540818.aspx) **within 30 days of entering the Czech Republic**.
+
+**Third country nationals*** are obliged to register their accommodation address in the Czech Republic with the nearest [foreign police department](https://www.policie.cz/clanek/odbor-cizinecke-policie-540818.aspx) **within 3 working days of entering the Czech Republic**. If you have arrived in the Czech Republic to pick up a long-term or permanent residence card, you may also perform your obligation of registration at an office of the [Ministry of Interior](https://www.mvcr.cz/mvcren/article/contacts.aspx), where you may also perform your obligation to provide [biometric data](https://www.mvcr.cz/mvcren/article/biometric-data.aspx). 
+
+*non-EU nationals are citizens of countries neither members of the EU, nor citizens of Iceland, Liechtenstein, Norway and Switzerland, nor their family members; the term used in legislation for this group is third country nationals.
+
+**If you are staying in a hotel, hostel, student residence** or similar, the accommodation provider will register you at the Foreign Police for you, but only for the duration of your stay at the accommodation – **after that you must register yourself**.
+
+[Euraxess](https://www.euraxess.cz/czech-republic/information-assistance/visa-residence-permit) can help you with the process of registering at the Foreign Police. It’s important to notify the Foreign Police about any changes to your status or travel documents (surname, marital status, passport, purpose of stay, change of address).
+
+Take a look at this [useful article](https://github.com/PRL-PRG/prl-prg.github.io/wiki/Local-information#foreign-police) about the Czech foreign police by one of the [computer science research teams at the Czech Technical University](https://prl-prg.github.io/).
+
+Other things to check off:
+
+- Check with your employer if healthcare is provided for you (it should be a part of your employment relationship), otherwise get health insurance. We recommend carrying your health insurance card with you at all times. 
+- Open a bank account.
+- Get a prepaid sim card from one of the Czech operators.
+- Get the Lítačka (a regional transport system card for which you can buy a monthly, quarterly or annual coupon that will save you considerable time and money).
+
+#### Rodné číslo (birth number)
+Czech nationals are allocated this number at birth. It’s used for identification when dealing with government bodies, insurance providers, doctors, etc. It can potentially make bureaucratic processes easier. EU citizens staying for more than 3 months may [apply for a temporary residence permit](https://www.mvcr.cz/mvcren/article/temporary-residence.aspx), upon which they are issued a rodné číslo. Non-EU citizens with permits to stay beyond 90 days can also apply for this identification number.
