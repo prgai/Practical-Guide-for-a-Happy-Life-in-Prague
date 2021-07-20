@@ -101,3 +101,11 @@ Other things to check off:
 
 #### Rodné číslo (birth number)
 Czech nationals are allocated this number at birth. It’s used for identification when dealing with government bodies, insurance providers, doctors, etc. It can potentially make bureaucratic processes easier. EU citizens staying for more than 3 months may [apply for a temporary residence permit](https://www.mvcr.cz/mvcren/article/temporary-residence.aspx), upon which they are issued a rodné číslo. Non-EU citizens with permits to stay beyond 90 days can also apply for this identification number.
+
+#### Airport
+
+[Letiště Václava Havla](https://www.prg.aero/en#/) (Prague Airport) is the international airport of Prague and is named after the first President of the Czech Republic.
+
+The best way to get [from the airport using public transport](https://www.prg.aero/en/public-transport-buses) is by bus no. 119 that goes to the Veleslavín metro station (Line A) or bus no. 100 that goes to the Zličín metro station (Line B). The 191 bus is also helpful for going to Na Knížecí, which is useful for places around Anděl, Břevnov, Strahov, etc. You don’t have to book the bus ride in advance, but buying a ticket is mandatory. Ticket machines are located directly at bus stops and around arrival halls.
+
+If you want to use a *taxi service*, we definitely recommend booking in advance. You will find taxis waiting at the airporport, but you are likely to pay a “premium”. 
