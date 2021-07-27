@@ -29,43 +29,30 @@ If you’re the holder of a green insurance card, meaning that you are a non-EU 
 
 #### Pediatrician
 
-MUDr. Natália Szitányi 
-V zářezu 902/4, Praha 5 – Jinonice
-+420 251 620 792
-Restrial.cz 
-U Průhonu 1141 Prague 7 – Holešovice
-+420 220 570 036
-MUDr. Dušan Kotus (contract with all major public health insurance companies)
-Lucemburská 1492/11, Prague 3 – Vinohrady
-+420 222 727 647
-MUDr. Ivana Nulíčková (contract with all major public health insurance companies)
-Palackého 5, Prague 1 – New Town
-+420 222 928 236
+- [MUDr. Natália Szitányi](http://www.pediatrickaordinace.org/index.php?id=2) 
+(V zářezu 902/4, Praha 5 – Jinonice, +420 251 620 792)
+- [Restrial.cz](https://www.restrial.cz/nase-ordinace/detsky-lekar/detsky-lekar-praha-7-u-pruhonu) 
+(U Průhonu 1141 Prague 7 – Holešovice, +420 220 570 036)
+- [MUDr. Dušan Kotus](https://www.detskaordinace.cz/) (contract with all major public health insurance companies)
+(Lucemburská 1492/11, Prague 3 – Vinohrady, +420 222 727 647)
+- [MUDr. Ivana Nulíčková](http://nulickova.cz/ambulancia.html) (contract with all major public health insurance companies)
+(Palackého 5, Prague 1 – New Town, +420 222 928 236)
 
 #### Dentist
 
-Dent Medico 
-Wilsonova 301/10 Prague 2 – Vinohrady
-Urešova 1757, Prague 4 – Chodov
-Sokolovská 131/86 Prague 8 – Karlín
-+420 225 990 990
-SofiDent 
-Na Plzeňce 1235/2, Prague 5 – Smíchov
-+420 777 134 305
-Innova Stoma 
-Antala Staška 1670/80, Prague 4 – Budějovická
-+420 222 300 500
-Sokolovská 304, Prague 9 – Vysočany
-+420 222 244 222
-MDDr. Ben Rakušan DDS – Černá Labuť Dental Centre
-Na Poříčí 1067/25, Prague 1 – New Town
-+420 775 931 775
+- [Dent Medico](https://www.dentmedico.cz/en/) 
+(Wilsonova 301/10 Prague 2 – Vinohrady; Urešova 1757, Prague 4 – Chodov; Sokolovská 131/86 Prague 8 – Karlín; +420 225 990 990)
+- [SofiDent](https://www.sofident.cz/) 
+(Na Plzeňce 1235/2, Prague 5 – Smíchov, +420 777 134 305)
+- [Innova Stoma](https://www.innovastoma.cz/english) 
+(Antala Staška 1670/80, Prague 4 – Budějovická, +420 222 300 500; Sokolovská 304, Prague 9 – Vysočany, +420 222 244 222)
+- [MDDr. Ben Rakušan DDS](http://www.rakusandental.cz/) – Černá Labuť Dental Centre
+(Na Poříčí 1067/25, Prague 1 – New Town, +420 775 931 775)
 
 #### Dental hygienist 
 
-Petra Šrůtková, DiS.
-Olšanská 7, Prague 3 – Žižkov
-+420 608 073 478
+- [Petra Šrůtková, DiS.](http://www.ordinacedentalnihygieny.cz/)
+(Olšanská 7, Prague 3 – Žižkov, +420 608 073 478)
 
 #### Gynecologist
 
