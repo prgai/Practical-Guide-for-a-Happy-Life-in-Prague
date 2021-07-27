@@ -56,44 +56,37 @@ If you’re the holder of a green insurance card, meaning that you are a non-EU 
 
 #### Gynecologist
 
-Gynprag (private clinic — no contract with health insurance companies)
-Platnéřská 11, Prague 1 – Old Town
-+420 778 079 696
-MUDr. Konstantin Inkov (private clinic — no contract with health insurance companies)
-Jindřišská 938/ 18, Prague 1 – Old Town
-+420 720 428 518
-GynCentrum (contract with all major public health insurance companies)
-Českomoravská 2510/19, Prague 9 – Libeň
-+420 234 770 400
-Dr. Kateřina Bittmanová
-Vinohradská 1316/95, Prague 2 – Vinohrady
-+420 222 724 592
-Dr Renata Kavanová (contract with all major public health insurance companies)
-Spálená 78/12, Prague 1 – New Town
-+420 722 344 830
-+420 222 924 274
+- [Gynprag](https://www.gynprag.cz/home) (private clinic — no contract with health insurance companies)
+(Platnéřská 11, Prague 1 – Old Town, +420 778 079 696)
+- [MUDr. Konstantin Inkov](https://www.gynnogroup.cz/) (private clinic — no contract with health insurance companies)
+(Jindřišská 938/ 18, Prague 1 – Old Town, +420 720 428 518)
+- [GynCentrum](http://www.gyncentrum.cz/en) (contract with all major public health insurance companies)
+(Českomoravská 2510/19, Prague 9 – Libeň, +420 234 770 400)
+- [Dr. Kateřina Bittmanová](https://www.znamylekar.cz/katerina-bittmanova/gynekolog/praha)
+(Vinohradská 1316/95, Prague 2 – Vinohrady, +420 222 724 592)
+- [Dr Renata Kavanová](https://www.mygyn.cz/kontakt) (contract with all major public health insurance companies)
+(Spálená 78/12, Prague 1 – New Town, +420 722 344 830, +420 222 924 274)
 
 #### Dermatologist
 
-doc. MUDr. Ivana Kuklová, CSc
-Clinic of dermatovenerology, General University Hospital in Prague 
-U Nemocnice 2, Prague 2 – New Town
-+420 224 966 733
+- doc. MUDr. Ivana Kuklová, CSc
+[Clinic of dermatovenerology, General University Hospital in Prague](https://www.vfn.cz/en/pacienti/kliniky-ustavy/dermatovenerologicka-klinika/#m) 
+(U Nemocnice 2, Prague 2 – New Town, +420 224 966 733)
 
 ### Mental health support
 
 Moving to a new country is not easy and feeling overwhelmed or out of place is understandable. A language barrier may make reaching out for help that much more difficult. However, there are several organisations that specialise in helping expats in difficult life situations.
 
-Prague Integration is currently running weekly support sessions during Covid-19.
-Association for Integration and Migration offers counselling sessions in Czech, English and Russian in Prague 3 – Žižkov for anyone experiencing personal or professional hardships or anyone who has been victim of prejudices. Contact to counselor Frantisek Cihlar: +420 602 200 985, cihlar@migrace.com
-Modrá linka (Blue Line) is a well-established crisis hotline in the Czech Republic offering email and chat help in English.
-Crisis intervention: Counseling in Prague, +420 775 248 363 (available 24/7)
-Self-help: Samaritans.org, 116 123 or +44 330 094 5717 (UK helpline, available 24/7)
-This directory may point you in the right direction if you are looking for a therapist.
+- [Prague Integration](http://pragueintegration.cz/menthal-health-support-group/) is currently running weekly support sessions during Covid-19.
+- [Association for Integration and Migration](https://www.migrace.com/en/mission/legislative) offers counselling sessions in Czech, English and Russian in Prague 3 – Žižkov for anyone experiencing personal or professional hardships or anyone who has been victim of prejudices. Contact to counselor Frantisek Cihlar: +420 602 200 985, cihlar@migrace.com
+- [Modrá linka (Blue Line)](https://www.modralinka.cz/english/) is a well-established crisis hotline in the Czech Republic offering email and chat help in English.
+- Crisis intervention: [Counseling in Prague](http://www.counselinginprague.com/), +420 775 248 363 (available 24/7)
+- Self-help: [Samaritans.org](https://www.samaritans.org/how-we-can-help/contact-samaritan/self-help/), 116 123 or +44 330 094 5717 (UK helpline, available 24/7)
+- [This directory](https://www.expats.cz/en/prague/directory/therapists) may point you in the right direction if you are looking for a therapist.
 
 ### Public and private hospitals/medical centers in Prague
 
-Public hospitals
+#### Public hospitals
 
 Nemocnice Na Bulovce
 Budínova 2, Prague 8 – Bulovka
@@ -117,7 +110,7 @@ Psychiatric hospital Bohnice (the emergency staff are English language friendly,
 Ústavní 91, Prague 8 – Bohnice
 +420 284 016 111
 
-Private medical centers and clinics (a few examples)
+#### Private medical centers and clinics (a few examples)
 
 Unicare Medical Center
 Na Dlouhém Lánu 11, Prague 6 – Vokovice
@@ -132,9 +125,9 @@ Canadian Medical
 Seven locations (see contacts)
 +420 222 300 300
 
-Emergency dental care
+### Emergency dental care
 
-Adult emergency dental care
+#### Adult emergency dental care
 
 Municipal Polyclinic Prague (contract with all major public health insurance companies)
 Spálená 12, Prague 1 – New Town
@@ -150,7 +143,7 @@ University Hospital in Motol, children’s emergency (contract with all major pu
 +420 224 433 653, +420 224 433 652
 Opening hours: Monday-Friday 4pm-7am and Saturday-Sunday nonstop
 
-COVID-19
+### COVID-19
 
 For the current number of Covid-19 positive people in the Czech Republic, visit the website of Ministerstvo zdravotnictví České republiky, there is also a section Covid-19 epidemic in the Czech Republic in English. For detailed information about entry to the Czech Republic, visit the website of the Ministry of the Interior. 
 
