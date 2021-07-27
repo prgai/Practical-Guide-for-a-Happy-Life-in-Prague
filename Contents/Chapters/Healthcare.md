@@ -105,41 +105,30 @@ Moving to a new country is not easy and feeling overwhelmed or out of place is u
 
 #### Private medical centers and clinics (a few examples)
 
-Unicare Medical Center
-Na Dlouhém Lánu 11, Prague 6 – Vokovice
-+420 235 356 553
-AGEL
-Italská 37, Prague 2 – Vinohrady
-+420 221 087 111
-ATODA Medical 
-U Průhonu 13, Praha 7 – Holešovice
-+420 277 003 100
-Canadian Medical
-Seven locations (see contacts)
-+420 222 300 300
+- [Unicare Medical Center](https://www.unicare.cz/)
+(Na Dlouhém Lánu 11, Prague 6 – Vokovice, +420 235 356 553)
+- [AGEL](https://eu.agel.cz/index.html)
+(Italská 37, Prague 2 – Vinohrady, +420 221 087 111)
+- [ATODA Medical](https://www.atodamedical.com/) 
+(U Průhonu 13, Praha 7 – Holešovice, +420 277 003 100)
+- [Canadian Medical](https://www.canadian.cz/en/) (seven locations - see [contacts](https://www.canadian.cz/en/contacts/)), +420 222 300 300)
 
 ### Emergency dental care
 
 #### Adult emergency dental care
 
-Municipal Polyclinic Prague (contract with all major public health insurance companies)
-Spálená 12, Prague 1 – New Town
-+420 222 924 211
-Opening hours: Monday-Thursday 6pm-11:30pm, Friday-Saturday 4pm-6am, Saturday-Sunday 7am-6am and Sunday-Monday 7am-6am
-Thomayer University hospital (pavilion B1 – same pavilion as for other emergencies)
-Vídeňská 800, Prague 4 – Kunratice
-+420 261 083 546, +420 730 578 741
-Opening hours: Monday-Friday 5:30pm-10:30pm, Saturday-Sunday and holidays 7:30am-10:30pm
-Children’s emergency dental care
+- [Municipal Polyclinic Prague](https://www.prahamp.cz/zubni-pohotovost) *contract with all major public health insurance companies*
+(Spálená 12, Prague 1 – New Town, +420 222 924 211; opening hours: Monday-Thursday 6pm-11:30pm, Friday-Saturday 4pm-6am, Saturday-Sunday 7am-6am and Sunday-Monday 7am-6am
+- [Thomayer University hospital](http://www.ftn.cz/lekarska-pohotovostni-sluzba-199/) Pavilion B1 – same pavilion as for other emergencies.
+(Vídeňská 800, Prague 4 – Kunratice, +420 261 083 546, +420 730 578 741; opening hours: Monday-Friday 5:30pm-10:30pm, Saturday-Sunday and holidays 7:30am-10:30pm)
 
-University Hospital in Motol, children’s emergency (contract with all major public health insurance companies)
-+420 224 433 653, +420 224 433 652
-Opening hours: Monday-Friday 4pm-7am and Saturday-Sunday nonstop
+- [University Hospital in Motol](http://www.fnmotol.cz/kliniky-a-oddeleni/cast-pro-deti/emergency-department-for-children/detska-pohotovost-detsky-prijem/), children’s emergency *contract with all major public health insurance companies*
+(+420 224 433 653, +420 224 433 652; opening hours: Monday-Friday 4pm-7am and Saturday-Sunday nonstop)
 
 ### COVID-19
 
-For the current number of Covid-19 positive people in the Czech Republic, visit the website of Ministerstvo zdravotnictví České republiky, there is also a section Covid-19 epidemic in the Czech Republic in English. For detailed information about entry to the Czech Republic, visit the website of the Ministry of the Interior. 
+For the current number of Covid-19 positive people in the Czech Republic, visit the website of [Ministerstvo zdravotnictví České republiky](https://koronavirus.mzcr.cz/), there is also a section [Covid-19 epidemic in the Czech Republic](https://koronavirus.mzcr.cz/en/) in English. For detailed information about entry to the Czech Republic, visit the website of the [Ministry of the Interior](https://www.mvcr.cz/mvcren/article/coronavirus-information-of-moi.aspx). 
 
-Covid Portal includes regular updates in English on current restrictions.
+[Covid Portal](https://covid.gov.cz/en/) includes regular updates in English on current restrictions.
 
-E-rouška is the contact tracing app in the Czech Republic. It notifies you if you’ve come in proximity with a COVID-19 positive person.
+[E-rouška](https://erouska.cz/en) is the contact tracing app in the Czech Republic. It notifies you if you’ve come in proximity with a COVID-19 positive person.
