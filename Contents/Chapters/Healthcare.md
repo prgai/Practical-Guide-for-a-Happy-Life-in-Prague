@@ -33,9 +33,9 @@ If you’re the holder of a green insurance card, meaning that you are a non-EU 
 (V zářezu 902/4, Praha 5 – Jinonice, +420 251 620 792)
 - [Restrial.cz](https://www.restrial.cz/nase-ordinace/detsky-lekar/detsky-lekar-praha-7-u-pruhonu) 
 (U Průhonu 1141 Prague 7 – Holešovice, +420 220 570 036)
-- [MUDr. Dušan Kotus](https://www.detskaordinace.cz/) (contract with all major public health insurance companies)
+- [MUDr. Dušan Kotus](https://www.detskaordinace.cz/) *contract with all major public health insurance companies*
 (Lucemburská 1492/11, Prague 3 – Vinohrady, +420 222 727 647)
-- [MUDr. Ivana Nulíčková](http://nulickova.cz/ambulancia.html) (contract with all major public health insurance companies)
+- [MUDr. Ivana Nulíčková](http://nulickova.cz/ambulancia.html) *contract with all major public health insurance companies*
 (Palackého 5, Prague 1 – New Town, +420 222 928 236)
 
 #### Dentist
@@ -56,15 +56,15 @@ If you’re the holder of a green insurance card, meaning that you are a non-EU 
 
 #### Gynecologist
 
-- [Gynprag](https://www.gynprag.cz/home) (private clinic — no contract with health insurance companies)
+- [Gynprag](https://www.gynprag.cz/home) *private clinic — no contract with health insurance companies*
 (Platnéřská 11, Prague 1 – Old Town, +420 778 079 696)
-- [MUDr. Konstantin Inkov](https://www.gynnogroup.cz/) (private clinic — no contract with health insurance companies)
+- [MUDr. Konstantin Inkov](https://www.gynnogroup.cz/) *private clinic — no contract with health insurance companies*
 (Jindřišská 938/ 18, Prague 1 – Old Town, +420 720 428 518)
-- [GynCentrum](http://www.gyncentrum.cz/en) (contract with all major public health insurance companies)
+- [GynCentrum](http://www.gyncentrum.cz/en) *contract with all major public health insurance companies*
 (Českomoravská 2510/19, Prague 9 – Libeň, +420 234 770 400)
 - [Dr. Kateřina Bittmanová](https://www.znamylekar.cz/katerina-bittmanova/gynekolog/praha)
 (Vinohradská 1316/95, Prague 2 – Vinohrady, +420 222 724 592)
-- [Dr Renata Kavanová](https://www.mygyn.cz/kontakt) (contract with all major public health insurance companies)
+- [Dr Renata Kavanová](https://www.mygyn.cz/kontakt) *contract with all major public health insurance companies*
 (Spálená 78/12, Prague 1 – New Town, +420 722 344 830, +420 222 924 274)
 
 #### Dermatologist
@@ -88,27 +88,20 @@ Moving to a new country is not easy and feeling overwhelmed or out of place is u
 
 #### Public hospitals
 
-Nemocnice Na Bulovce
-Budínova 2, Prague 8 – Bulovka
-+420 266 081 111
-Fakultní nemocnice Královské Vinohrady
-Šrobárova 1150/50, Prague 10 – Vinohrady
-+420 267 161 111
-Department for foreigners at Motol Hospital (paid service)
-V Úvalu 84, Prague 5 – Motol
-+420 224 431 111
-Thomayerova nemocnic
-Vídeňská 800, Prague 4 – Krč
-+420 261 081 111
-Ústřední vojenská nemocnice
-U Vojenské nemocnice 1200, Prague 6 – Dejvice
-+420 973 208 333
-Všeobecná fakultní nemocnice v Praze
-U Nemocnice 499/2, Prague 2 – New Town
-+420 224 961 111
-Psychiatric hospital Bohnice (the emergency staff are English language friendly, contract with all major public health insurance companies)
-Ústavní 91, Prague 8 – Bohnice
-+420 284 016 111
+- [Nemocnice Na Bulovce](http://bulovka.cz/)
+(Budínova 2, Prague 8 – Bulovka, +420 266 081 111)
+- [Fakultní nemocnice Královské Vinohrady](https://www.fnkv.cz/)
+(Šrobárova 1150/50, Prague 10 – Vinohrady, +420 267 161 111)
+- [Department for foreigners](https://www.fnmotol.cz/en/samoplatci/) at [Motol Hospital](https://www.fnmotol.cz/en/) *paid service*
+(V Úvalu 84, Prague 5 – Motol, +420 224 431 111)
+- [Thomayerova nemocnic](http://www.ftn.cz/)
+(Vídeňská 800, Prague 4 – Krč, +420 261 081 111)
+- [Ústřední vojenská nemocnice](https://www.uvn.cz/cs/)
+(U Vojenské nemocnice 1200, Prague 6 – Dejvice, +420 973 208 333)
+- [Všeobecná fakultní nemocnice v Praze](https://www.vfn.cz/)
+(U Nemocnice 499/2, Prague 2 – New Town, +420 224 961 111)
+- [Psychiatric hospital Bohnice](https://bohnice.cz/) *the emergency staff are English language friendly, contract with all major public health insurance companies*
+(Ústavní 91, Prague 8 – Bohnice, +420 284 016 111)
 
 #### Private medical centers and clinics (a few examples)
 
