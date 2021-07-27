@@ -1,6 +1,6 @@
 ## 👍🏻 Life in Prague
 
-### What to do before your arrival
+### 🛫 What to do before your arrival
 
 For detailed information about visa and residence permits, see section [Visa and residence permit](https://docs.google.com/document/d/1iPcpxQ0UPT92rINIKPU8-HMLCKl9xzAvxFvXTdWnFMU/edit#heading=h.hsgq6278i930).
 
@@ -76,7 +76,7 @@ Some of the most affordable options are found in districts on the outskirts of P
 Life in Prague’s housing estates can actually be very comfortable, with greenery and all necessary amenities (shops, schools, public services, doctors’ offices, public transportation hubs) in the near vicinity. Once depressingly grey, many paneláky have acquired flamboyant exteriors and many dwellings have been transformed into fine examples of modern living. If you don’t mind longer commutes to the city centre, it’s worth exploring offers in these neighbourhoods.
 
 
-### What to do upon your arrival
+### 🛬 What to do upon your arrival
 
 #### Foreign Police
 
