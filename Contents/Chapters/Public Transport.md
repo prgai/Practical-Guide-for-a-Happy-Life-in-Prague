@@ -1,31 +1,31 @@
-Public Transport
+## 🚀 Public Transport
 
 If you ask us, Prague has one of the best public transportation systems in Europe. It’s easy to use, usually on time and it covers the majority of the city and its outskirts. It is an integrated public transportation system, meaning that one ticket can be used for the bus, metro, tram, a number of ferries and the Petřín cable car as long as you travel within the time limit of your ticket. 
 
-Fares
+### Fares
 
-You can buy a one-time ticket in the ticket machine (in every metro station and some of the highly frequented tram or bus stations), directly from the bus driver (although we don’t really recommend it because drivers often don’t speak English and prefer not to be disturbed), in newspaper shops or inside some newer trams using contactless credit or debit cards. You can also buy a ticket via text message; the price of the 90 min. ticket is 32 CZK and the text message format is “DPT32” sent to 90206. Take a look at the fare price list for detailed information. Don’t forget to validate your ticket by stamping it in the yellow ticket validator!
+You can buy a **one-time ticket** in the ticket machine (in every metro station and some of the highly frequented tram or bus stations), directly from the bus driver (although we don’t really recommend it because drivers often don’t speak English and prefer not to be disturbed), in newspaper shops or inside some newer trams using contactless credit or debit cards. You can also buy a ticket via text message; the price of the 90 min. ticket is 32 CZK and the text message format is “DPT32” sent to 90206. Take a look at the [fare price list](https://www.dpp.cz/en/fares/fare-pricelist#1-1) for detailed information. **Don’t forget to validate your ticket by stamping it in the yellow ticket validator!**
 
-You can also purchase a long-term coupon which you can buy monthly (550 CZK), quarterly (1480 CZK), for 5 months (2450 CZK) or annually (3650 CZK). The annual coupon is your best choice if you are going to spend a year in Prague and you have to commute to work daily. For long-term coupons you can purchase the Lítačka card (your coupon will be loaded on the card) which you can also use as a library card in the Municipal Library of Prague or you can purchase a paper coupon in any of the public transport offices.. You can get all information in English on the PID Lítačka website. 
+You can also purchase a **long-term coupon** which you can buy monthly (550 CZK), quarterly (1480 CZK), for 5 months (2450 CZK) or annually (3650 CZK). The annual coupon is your best choice if you are going to spend a year in Prague and you have to commute to work daily. For long-term coupons you can purchase [the Lítačka card](https://www.pidlitacka.cz/home) (your coupon will be loaded on the card) which you can also use as a library card in the [Municipal Library of Prague](https://www.mlp.cz/en/) or you can purchase a paper coupon in any of the public transport offices.. You can get all information in English on the [PID Lítačka website](https://www.pidlitacka.cz/home). 
 
-Means of public transport
+### Means of public transport
 
-The Prague metro has three lines (A = green line, B = yellow line and C = red line) and it’s the fastest way to travel through the city. The metro operates daily from 5 am until midnight with 2-3 min. intervals during the day and 4-10 min. during weekends, holidays and evenings.
-If you don’t like to travel underground, you can always use a tram. Trams operate daily from 4:30 am until midnight. There are also night trams that operate in 30 min. intervals. Important warning: trams always have the right of way at pedestrian crossings!  
-The daytime and nighttime service of buses is the same as trams. When you are travelling outside of Prague with a bus number higher than 300 (suburban transport), always use the front door to enter. You will probably have to buy a ticket or pay an additional fare even if you have a Lítačka. In the fare price list mentioned above, you will find further information. 
-The funicular runs from Újezd to the top of Petřín hill, with a stop halfway at Nebozízek. Time intervals are different throughout the year. 
-Ferries are quite a useful and pleasant means of shortening your commute if you need to cross the river. Some of them operate throughout the whole year, some of them only from April to October. 
+- The **Prague [metro](https://en.wikipedia.org/wiki/Prague_Metro)** has three lines (A = green line, B = yellow line and C = red line) and it’s the fastest way to travel through the city. The metro operates daily from 5 am until midnight with 2-3 min. intervals during the day and 4-10 min. during weekends, holidays and evenings.
+- If you don’t like to travel underground, you can always use a **[tram](https://en.wikipedia.org/wiki/Trams_in_Prague)**. Trams operate daily from 4:30 am until midnight. There are also night trams that operate in 30 min. intervals. **Important warning: trams always have the right of way at pedestrian crossings!** 
+- The daytime and nighttime service of **[buses](https://en.wikipedia.org/wiki/Buses_in_Prague)** is the same as trams. When you are travelling outside of Prague with a bus number higher than 300 (suburban transport), always use the front door to enter. You will probably have to buy a ticket or pay an additional fare even if you have a Lítačka. In the [fare price list](https://www.dpp.cz/en/fares/fare-pricelist#2-6) mentioned above, you will find further information. 
+- The **[funicular](https://www.dpp.cz/en/entertainment-and-experience/events-and-attractions/funicular-to-petrin)** runs from Újezd to the top of Petřín hill, with a stop halfway at Nebozízek. Time intervals are different throughout the year. 
+- **[Ferries](https://pid.cz/en/ferries/)** are quite a useful and pleasant means of shortening your commute if you need to cross the river. Some of them operate throughout the whole year, some of them only from April to October. 
 
-Ticket inspection
+### Ticket inspection
 
-The validity of tickets can be checked by ticket inspectors of the Dopravní podnik hl. města Prahy (DPP — the Prague Public Transit Company) at any time during your commute. Ticket inspectors are usually quite hard to spot as they don’t wear any kind of uniform, nevertheless they are always obliged to show you their badge and to issue a receipt if you pay a fine. A fine for not having a valid ticket is 800 CZK (if paid on the spot or on the 15th calendar day from the inspection date at the latest) or 1500 CZK if paid later (via transfer or at the additional payments counter). If you happen to forget your Lítačka at home and you get inspected, you can ask for the fine ticket to pay later instead of paying on the spot, and you can take it to the additional payments counter and dispute it when you show a valid Lítačka. 
+The validity of tickets can be checked by ticket inspectors of the Dopravní podnik hl. města Prahy (DPP — the Prague Public Transit Company) at any time during your commute. Ticket inspectors are usually quite hard to spot as they don’t wear any kind of uniform, nevertheless they are always obliged to show you their badge and to issue a receipt if you pay a fine. A fine for not having a valid ticket is 800 CZK (if paid on the spot or on the 15th calendar day from the inspection date at the latest) or 1500 CZK if paid later (via transfer or at the [additional payments counter](https://www.dpp.cz/en/fares/penalties-transport-inspectors/additional-payments-counter)). If you happen to forget your Lítačka at home and you get inspected, you can ask for the fine ticket to pay later instead of paying on the spot, and you can take it to the additional payments counter and dispute it when you show a valid Lítačka. 
 
-Public transport mobile phone apps
+### Public transport mobile phone apps
 
-PID Lítačka is useful if you have the Lítačka card, so you don’t have to carry it with you all the time; the coupon will be loaded onto the app in your phone and in case the coupon is no longer valid, you can purchase a new one in the interface or just buy a ticket instead.
-IDOS and CG Transit are tools for finding connections, not just for public transport but also for trains and buses across the whole country.
+- [PID Lítačka](https://app.pidlitacka.cz/en/) is useful if you have the Lítačka card, so you don’t have to carry it with you all the time; the coupon will be loaded onto the app in your phone and in case the coupon is no longer valid, you can purchase a new one in the interface or just buy a ticket instead.
+- [IDOS](http://idos.idnes.cz/) and [CG Transit](https://www.circlegate.com/) are tools for finding connections, not just for public transport but also for trains and buses across the whole country.
 
-Trains
+### Trains
 
 Travelling by train is very common, both throughout the Czech Republic and across Prague. Other than the Prague main train station, there are a number of smaller train stations directly in the city or in suburban areas. Examples of bigger ones are Smíchovské nádraží in Prague 5, Masarykovo nádraží in the city centre or Nádraží Vršovice in Prague 10. You can use your Lítačka card but you need to buy additional tickets when traveling beyond Prague.
 
