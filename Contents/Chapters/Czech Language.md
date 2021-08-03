@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 🗣 Czech language
 
 - Possibly the easiest way to start learning Czech is by downloading [Duolingo](https://www.duolingo.com/) on your smartphone.
