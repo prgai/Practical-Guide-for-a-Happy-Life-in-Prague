@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 🚀 Public Transport
 
 If you ask us, Prague has one of the best public transportation systems in Europe. It’s easy to use, usually on time and it covers the majority of the city and its outskirts. It is an integrated public transportation system, meaning that one ticket can be used for the bus, metro, tram, a number of ferries and the Petřín cable car as long as you travel within the time limit of your ticket. 
