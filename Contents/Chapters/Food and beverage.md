@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 🍾 Food and beverage
 
 ### Czech cuisine
