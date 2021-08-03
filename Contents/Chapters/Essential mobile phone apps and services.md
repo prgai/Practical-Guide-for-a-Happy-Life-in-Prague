@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 📱 Essential mobile phone apps and services
 
 We won’t list Google Maps, Uber or Spotify because you probably already know them. :-) Apps listed below are more specific to Prague or the Czech Republic.
