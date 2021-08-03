@@ -3,14 +3,14 @@
 ### Websites and blogs
 
 - [prg.ai](prg.ai/en)
-- Euraxess
-- Prague Expat Centre website and Facebook page
-- Expats.cz
-- Foreigners blog
-- Ministry of the Interior (MOI) 
-- Wiki page of one of the computer science research teams at CTU
-- Czech Tourism
-- My Czech Republic
+- [Euraxess](https://euraxess.ec.europa.eu/)
+- Prague Expat Centre [website](https://expat.praha.eu/) and [Facebook page](https://www.facebook.com/PragueForExpats)
+- [Expats.cz](https://www.expats.cz/)
+- [Foreigners blog](https://blog.foreigners.cz/)
+- [Ministry of the Interior](https://www.mvcr.cz/mvcren/) (MOI) 
+- [Wiki page](https://github.com/PRL-PRG/prl-prg.github.io/wiki) of one of the [computer science research teams at CTU](https://prl-prg.github.io/)
+- [Czech Tourism](https://www.visitczechrepublic.com/en-US/)
+- [My Czech Republic](http://www.myczechrepublic.com/)
 
 ### Facebook groups
 
