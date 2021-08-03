@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 📚 Education system
 
 For detailed information about the education system in the Czech Republic, take a look at [this structured article](https://www.euraxess.cz/czech-republic/information-assistance/rodina/p%C3%A9%C4%8De-o-d%C4%9Bti-p%C5%99ed%C5%A1koln%C3%ADho-v%C4%9Bku/education-system) by [Euraxess](https://euraxess.ec.europa.eu/) or [Wikipedia](https://en.wikipedia.org/wiki/Education_in_the_Czech_Republic). If you are looking for some help, there is an organisation called [META](https://meta-ops.eu/what-are-we-doing-who-do-we-help/) which provides help to “parents with migration experience and their children to orientate themselves in the Czech education system and in their integration into society”.
