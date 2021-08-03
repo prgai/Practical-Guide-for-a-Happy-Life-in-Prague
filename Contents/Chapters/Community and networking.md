@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 🙋‍♀️ Community and networking 
 
 International researchers are invited to join our Slack workspace **Prague’s International Researchers** where you can ask the community questions directly, share tips and recommendations, stay up to date with news and events and possibly find friends for life! Fill in the following Google form: https://bit.ly/pir_slack_form and we’ll take you to where the magic happens! ;-)
