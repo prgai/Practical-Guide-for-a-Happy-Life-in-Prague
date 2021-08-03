@@ -1,3 +1,5 @@
+⬅️ <a href="https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Contents.md">Back to Contents</a>
+
 ## 🔗 Sources
 
 1. Aspen Institute. https://www.aspeninstitutece.org/
