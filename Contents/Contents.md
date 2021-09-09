@@ -1,6 +1,6 @@
 ## Contents
 
-### 🤗 [Welcome to Prague!](https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Chapters/Welcome%20to%20Prague.md)
+### 🤗 [Welcome to Prague](https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Chapters/Welcome%20to%20Prague.md)
 ### 💸 [Cost of living](https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Chapters/Cost%20of%20living.md)
 ### 👍🏻 [Life in Prague](https://github.com/prgai/Practical-Guide-for-a-Happy-Life-in-Prague/blob/Index/Contents/Chapters/Arrival%20in%20Prague.md)
 ### 🛫 What to do before your arrival
